@@ -8,7 +8,6 @@ export default function taskBlock(trueOrFalse) {
       var task2 = false;
     }
   }
-  apply()
 
   return [task, task2];
 }
